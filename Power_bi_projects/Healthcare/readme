@@ -1,1 +1,26 @@
+📌 Project Overview
+This project analyzes the distribution of healthcare systems across major Indian cities using Power BI.  
+The focus is on identifying dominance, gaps, and expansion opportunities across:
+- Allopathy
+- Ayurveda
+- Homeopathy
+- Siddha
+- Unani
+
+## 📊 Key Findings
+- Allopathy dominates healthcare infrastructure across most cities
+- Siddha has minimal presence and requires major expansion
+- Several cities depend on only one or two medical systems
+- City-wise imbalance highlights the need for policy-driven diversification
+
+## 🏥 City-wise Recommendations
+- Expand Ayurveda in Bhopal, Bhubaneswar, Chandigarh, Pune, Ranchi & Shillong
+- Introduce Homeopathy centers in Bhubaneswar & Chandigarh
+- Expand Siddha in all cities except Chennai
+- Expand Unani in all cities except Bengaluru, Delhi, Hyderabad, Kolkata & Lucknow
+
+## 🎯 Business / Policy Impact
+- Helps policymakers identify underserved healthcare systems
+- Supports strategic planning for hospital & doctor allocation
+- Enables data-driven decisions for public healthcare investment
 
